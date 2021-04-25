@@ -1,4 +1,5 @@
 using NUnit.Framework;
+using OpenQA.Selenium;
 using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.Remote;
 
@@ -17,7 +18,7 @@ namespace SeleniumPractise
         [Test]
         public void Test1()
         {
-            
+            Driver.FindElement(By.Id("")).Click();
             Assert.Pass();
         }
     }
