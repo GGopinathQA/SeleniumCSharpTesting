@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "37vIAwcHBmDU7doYeL+hDmjP2+hLdg4aenJMa9DUyKYNBvbeWVHKP3m8pPWKtgQttQhMU4evrSGTKh64Gch0tw==",
+  "success": true,
+  "projectFilePath": "H:\\SeleniumCSharp\\SeleniumPractise\\SeleniumPractise\\SeleniumPractise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GGopinath\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\GGopinath\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\GGopinath\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512",
+    "C:\\Users\\GGopinath\\.nuget\\packages\\selenium.support\\3.141.0\\selenium.support.3.141.0.nupkg.sha512",
+    "C:\\Users\\GGopinath\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+H:\SeleniumCSharp\SeleniumPractise\SeleniumPractise\bin\Debug\net35\NUnit3.TestAdapter.dll
+H:\SeleniumCSharp\SeleniumPractise\SeleniumPractise\bin\Debug\net35\NUnit3.TestAdapter.pdb
+H:\SeleniumCSharp\SeleniumPractise\SeleniumPractise\bin\Debug\net35\nunit.engine.dll
+H:\SeleniumCSharp\SeleniumPractise\SeleniumPractise\bin\Debug\net35\nunit.engine.api.dll
+H:\SeleniumCSharp\SeleniumPractise\SeleniumPractise\bin\Debug\net35\SeleniumPractise.dll
+H:\SeleniumCSharp\SeleniumPractise\SeleniumPractise\bin\Debug\net35\SeleniumPractise.pdb
+H:\SeleniumCSharp\SeleniumPractise\SeleniumPractise\bin\Debug\net35\nunit.framework.dll
+H:\SeleniumCSharp\SeleniumPractise\SeleniumPractise\bin\Debug\net35\WebDriver.Support.dll
+H:\SeleniumCSharp\SeleniumPractise\SeleniumPractise\bin\Debug\net35\WebDriver.dll
+H:\SeleniumCSharp\SeleniumPractise\SeleniumPractise\obj\Debug\net35\SeleniumPractise.csprojAssemblyReference.cache
+H:\SeleniumCSharp\SeleniumPractise\SeleniumPractise\obj\Debug\net35\SeleniumPractise.AssemblyInfoInputs.cache
+H:\SeleniumCSharp\SeleniumPractise\SeleniumPractise\obj\Debug\net35\SeleniumPractise.AssemblyInfo.cs
+H:\SeleniumCSharp\SeleniumPractise\SeleniumPractise\obj\Debug\net35\SeleniumPractise.csproj.CoreCompileInputs.cache
+H:\SeleniumCSharp\SeleniumPractise\SeleniumPractise\obj\Debug\net35\SeleniumPractise.csproj.CopyComplete
+H:\SeleniumCSharp\SeleniumPractise\SeleniumPractise\obj\Debug\net35\SeleniumPractise.dll
+H:\SeleniumCSharp\SeleniumPractise\SeleniumPractise\obj\Debug\net35\SeleniumPractise.pdb
